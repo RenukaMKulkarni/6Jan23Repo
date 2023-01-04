@@ -1,2 +1,3 @@
 Welcome to GIT Session!
 The session is planned from 3rd Jan till 6th Jan.
+adding random text!
