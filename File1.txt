@@ -6,4 +6,5 @@ Session timings are from 10:30 till 12:30
 2*2 = 4
 Function to fix Bug123(){
 	//do something
+	//Do something more to fix Bug 456
 }
