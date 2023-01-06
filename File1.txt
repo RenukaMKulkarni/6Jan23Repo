@@ -1,7 +1,8 @@
-*Welcome to - GIT Session!
-*The session is planned from - 3rd Jan till 6th Jan.
-*adding - random text!
-*Session timings are from - 10:30 till 12:30
+Welcome to - GIT Session!!
+The session is planned from - 3rd Jan till 6th Jan.!
+adding - random text!!
+Session timings are from - 10:30 till 12:30!
+
 2+2 = 4
 2*2 = 4
 Function to - fix Bug123(){
@@ -9,3 +10,4 @@ Function to - fix Bug123(){
 	// to fix the CR1
 	//Do something more to fix Bug 456
 }
+Adding ! to implement Feature1
